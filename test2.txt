@@ -2,4 +2,6 @@ Remotely created file.
 
 Updated file.
 
-Updating from feature branch 2
+Updating from feature branch 2.
+
+Adding another commit 3.

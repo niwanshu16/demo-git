@@ -1,0 +1,3 @@
+[submodule "Data-Structure"]
+	path = Data-Structure
+	url = git@github.com:niwanshu16/Data-Structure.git
